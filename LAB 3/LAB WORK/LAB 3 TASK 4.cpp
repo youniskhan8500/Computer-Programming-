@@ -1,7 +1,8 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
+
 
 
 
@@ -20,3 +21,4 @@ cout<<"you are not eligible";    //  PRINT KRNY K LYE
 
 return 0; // PROGRAM KO KHATAM KARNY K LYE
 }
+
