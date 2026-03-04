@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
 
 
 #include <iostream>
@@ -26,3 +26,4 @@ else {
 
 return 0;
 }
+
