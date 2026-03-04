@@ -1,7 +1,9 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
+
+
 
 
 
@@ -30,3 +32,4 @@ else {  // USED IF THE FORST CONDITION DEOS NOT SATISFY
 
 return 0;
 }
+
