@@ -1,3 +1,8 @@
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
+
 //1.
 //. Function with Parameters
 //▪ Declare a function called ”multiply” that takes two integer
