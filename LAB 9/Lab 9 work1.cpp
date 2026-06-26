@@ -1,3 +1,8 @@
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
+
 //1. 
 //Function Introduction and Declaration
 //• Declare a function called”greet”that takes no parameters and returns
