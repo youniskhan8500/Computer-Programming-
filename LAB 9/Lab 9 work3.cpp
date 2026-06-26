@@ -1,3 +1,8 @@
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
+
 //3.
 //Write a C++ program that:
 //Takes 10 integer values as input from the user and stores them in a 1D array. 
