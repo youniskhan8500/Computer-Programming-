@@ -1,3 +1,8 @@
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
+
 //2.
 //Basic Function Declaration and Call
 //▪ Declare a function called ”sayHello”that takes no parameters and returns
