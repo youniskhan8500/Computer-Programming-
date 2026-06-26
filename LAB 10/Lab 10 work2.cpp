@@ -1,3 +1,8 @@
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
+
 //2.
 // Function with Return Value
 //▪ Declare a function called ”getSquare” that takes an integer parameter: 
