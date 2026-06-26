@@ -1,4 +1,8 @@
 
+// Name: M.Younas Khan 
+// Department: Electrical Engineering (POWER)
+// Registration No: BF25NWELE0741
+// Section: A
 
 #include <iostream>
 #include <string>
